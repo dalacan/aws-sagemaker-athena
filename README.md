@@ -38,7 +38,7 @@ In this setup, you will learn how to:
     ![alt text](images/sm-step-4-2.png "Sagemaker Instance Step 4 2")
     ![alt text](images/sm-step-4-3.png "Sagemaker Instance Step 4 3")
    - Under Git repository -> Default repository, select `Clone a public Git repository to this notebook instance only`
-   - Under Git repository URL use: https://github.com/dalacan/aws-sagemaker-athena
+   - Under Git repository URL use: https://github.com/dalacan/aws-sagemaker-athena.git
     ![alt text](images/sm-step-4-4.png "Sagemaker Instance Step 4 4")
 
 5. Click `Create notebook instance`. It should take about 5 minutes for your notebook to be ready.
