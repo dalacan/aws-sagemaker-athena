@@ -24,8 +24,9 @@ In this setup, you will learn how to:
 
 1. In the Amazon Console, go to `Amazon Sagemaker`
 2. Select `Notebook instances` in the left menu
-![alt text](images/sm-step-2.png "Sagemaker Instance Step 2")
-3. Click `Create notebook instance`. Here we will be creating a new notebook instance to load out notebook.
+   
+    ![alt text](images/sm-step-2.png "Sagemaker Instance Step 2")
+1. Click `Create notebook instance`. Here we will be creating a new notebook instance to load out notebook.
 ![alt text](images/sm-step-3.png "Sagemaker Instance Step 3")
 4. In the Create notebook instance screen, fill in the following details.
    
